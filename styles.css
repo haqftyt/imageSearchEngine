@@ -82,8 +82,11 @@ button:focus{
         margin-left:38%;
     }
     .div1{
-        margin-right:50px;
-     }
+        margin-right:48px;
+    }
+    h1{
+        text-align: center;
+    }
 }
 @media screen and (min-width:470px){
     #search-results{
