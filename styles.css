@@ -90,6 +90,9 @@ button:focus{
         grid-gap:20px;
         text-align: center;
     }
+    #searchForm{
+        width:250px;
+    }
 }
 @media screen and (min-width:756px){
     #search-results{
