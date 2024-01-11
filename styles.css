@@ -82,8 +82,7 @@ button:focus{
         margin-left:38%;
     }
     .div1{
-        text-align: center;
-        margin-right:10px;
+        margin:0 50px;
      }
 }
 @media screen and (min-width:470px){
