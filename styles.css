@@ -6,7 +6,7 @@
  }
  .div1{
     text-align: center;
-    margin:50px 0;
+    margin:50px 10px;
  }
  h1{
     margin-bottom:20px;
@@ -89,9 +89,6 @@ button:focus{
         grid-template-columns: 1fr 1fr;
         grid-gap:20px;
         text-align: center;
-    }
-    #searchForm{
-        width:200px;
     }
 }
 @media screen and (min-width:756px){
