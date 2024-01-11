@@ -91,7 +91,7 @@ button:focus{
         text-align: center;
     }
     #searchForm{
-        width:250px;
+        width:200px;
     }
 }
 @media screen and (min-width:756px){
